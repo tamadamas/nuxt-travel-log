@@ -6,7 +6,7 @@ export default defineNuxtConfig({
 
   compatibilityDate: "2025-05-15",
   devtools: { enabled: true },
-  modules: ["@nuxt/eslint", "@nuxtjs/tailwindcss", "@nuxt/icon"],
+  modules: ["@nuxt/eslint", "@nuxtjs/tailwindcss", "@nuxt/icon", "nuxt-svgo"],
 
   eslint: {
     config: {
