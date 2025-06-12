@@ -6,7 +6,7 @@
           Nuxt Travel Log
         </h1>
         <p class="py-6">
-          Keep track of your travels and share them with the world!
+          Keep track of your travels and adventures. Add locations, photos, and notes to create a digital journal of your journeys
         </p>
         <button class="btn btn-accent">
           <Icon name="tabler:brand-github" size="24" />
