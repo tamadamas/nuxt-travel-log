@@ -1,4 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import "./server/config/env.ts";
+
 export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
