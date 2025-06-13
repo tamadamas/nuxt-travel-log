@@ -2,7 +2,7 @@
 const colorMode = useColorMode();
 const isDark = computed({
   get: () => colorMode.value === "forest",
-  set: value => (colorMode.preference = value ? "forest" : "nord"),
+  set: value => (colorMode.preference = value ? "forest" : "pastel"),
 });
 </script>
 

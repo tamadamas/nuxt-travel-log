@@ -21,7 +21,7 @@ export default defineNuxtConfig({
   },
   colorMode: {
     dataValue: "theme",
-    preference: "nord", // Set default theme, or 'system'
-    themes: ["nord", "forest"], // List your DaisyUI themes here
+    preference: "forest",
+    themes: ["pastel", "forest"],
   },
 });
